@@ -58,6 +58,13 @@
   color: #0077b5;
 }
 
+.facebook {
+  color: #0077b5;
+}
+
+.instagram {
+  color: #fafafa;
+}
 .angellist {
   color: grey;
 }
@@ -65,6 +72,14 @@
 .icon-btn:hover {
   transform: scale(1.10);
   color: #FFFFFF;
+}
+
+.facebook:hover {
+  background-color: #0077b5;
+}
+
+.instagram:hover {
+  background-color: #e906f5;
 }
 
 .linkedin:hover {
@@ -691,4 +706,9 @@ small {
   #intro.section {
     background-position-x: 30%;
   }
+}
+
+
+.pardhaa{
+  width: 50% !important;
 }
