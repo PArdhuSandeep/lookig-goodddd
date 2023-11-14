@@ -63,8 +63,17 @@
 }
 
 .instagram {
-  color: #fafafa;
+  color: #e906f5;
 }
+
+.whatsapp {
+  color: #06f54e;
+}
+
+.google {
+  color: #f50606;
+}
+
 .angellist {
   color: grey;
 }
@@ -80,6 +89,14 @@
 
 .instagram:hover {
   background-color: #e906f5;
+}
+
+.whatsapp:hover {
+  background-color: #06f54e;
+}
+
+.google:hover {
+  background-color: #f50606;
 }
 
 .linkedin:hover {
