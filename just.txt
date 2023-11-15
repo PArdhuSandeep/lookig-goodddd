@@ -1,0 +1,54 @@
+Collaboration:
+
+Facilitated communication and collaboration between development and operations teams.
+Participated in cross-functional teams to streamline workflows.
+Infrastructure as Code (IaC):
+
+Utilized tools like Terraform and CloudFormation to define and manage infrastructure.
+Automated the provisioning and configuration of infrastructure resources.
+Continuous Integration (CI) and Continuous Deployment (CD):
+
+Implemented and maintained Continuous Integration (CI) and Continuous Deployment (CD) pipelines using tools.
+Automated the deployment process to ensure quick and reliable software releases.
+Version Control:
+
+Managed version control systems like Git for source code management.
+Implemented branching strategies to support parallel development efforts.
+Configuration Management:
+
+Employed configuration management tools like Ansible & Terraform for consistent environment configurations.
+Automated server configuration and application deployments.
+Containerization and Orchestration:
+
+Utilized Docker for containerization of applications.
+Orchestrated containers using Kubernetes for scalability and manageability.
+Monitoring and Logging:
+
+Implemented monitoring solutions like Prometheus, Grafana, or ELK stack.
+Established centralized logging systems for tracking and analyzing application and system logs.
+Automated Testing:
+
+Integrated automated testing into CI/CD pipelines for early detection of issues.
+Used tools like Selenium, JUnit, or pytest for testing.
+Security:
+
+Collaborated with security teams to integrate security practices into the DevOps process.
+Conducted security scans and audits using tools like SonarQube or OWASP ZAP.
+Cloud Services:
+
+Worked with cloud platforms such as AWS, Azure, or Google Cloud.
+Designed and maintained cloud-based infrastructure for scalability and flexibility.
+Incident Response and Troubleshooting:
+
+Developed and documented incident response plans.
+Participated in troubleshooting and resolution of production issues.
+Documentation:
+
+Maintained clear and comprehensive documentation for processes, configurations, and procedures.
+Automation Scripts:
+
+Wrote automation scripts using languages like Python, Shell, or PowerShell for various tasks.
+Training and Knowledge Sharing:
+
+Provided training and guidance to team members on DevOps practices.
+Shared knowledge through internal workshops and documentation.
