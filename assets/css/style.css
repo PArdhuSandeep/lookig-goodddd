@@ -51,27 +51,33 @@
 }
 
 .github {
-  color: black;
+  color: #ffffff;
+  background-color: black;
 }
 
 .linkedin {
-  color: #0077b5;
+  color: #ffffff;
+  background-color: #0077b5;
 }
 
 .facebook {
-  color: #0077b5;
+  color: #ffffff;
+  background-color: #0077b5;
 }
 
 .instagram {
-  color: #e906f5;
+  color: #ffffff;
+  background-color: #df0cb8;
 }
 
 .whatsapp {
-  color: #06f54e;
+  color: #ffffff;
+  background-color: #06f54e;
 }
 
-.google {
-  color: #f50606;
+.google  {
+  color: #ffffff;
+  background-color: #f50606;
 }
 
 .angellist {
@@ -84,23 +90,28 @@
 }
 
 .facebook:hover {
-  background-color: #0077b5;
+  background-color: #ffffff;
+  color: #0077b5;
 }
 
 .instagram:hover {
-  background-color: #e906f5;
+  background-color: #ffffff;
+  color: #e906f5;
 }
 
 .whatsapp:hover {
-  background-color: #06f54e;
+  background-color: #ffffff;
+  color: #06f54e !important;
 }
 
 .google:hover {
-  background-color: #f50606;
+  background-color: #ffffff;
+  color: #f50606 !important;
 }
 
 .linkedin:hover {
-  background-color: #0077b5;
+  background-color: #ffffff;
+  color: #0077b5;
 }
 
 .angellist:hover {
@@ -108,7 +119,8 @@
 }
 
 .github:hover {
-  background-color: black;
+  background-color: #ffffff;
+  color: black;
 }
 
 /* Buttons - Read Me, Contact Us */
@@ -127,10 +139,10 @@
   -webkit-border-radius: 5px;
 }
 
-/* .readme:hover{
+.readme:hover{
   color: white;
   background-color: #00796b;
-} */
+}
 
 .contactme {
   position: relative;
