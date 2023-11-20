@@ -65,10 +65,17 @@
   background-color: #0077b5;
 }
 
+/* .instagram {
+  color: #ffffff;
+  background-color: #fccc63;
+} */
+
 .instagram {
   color: #ffffff;
-  background-color: #df0cb8;
+  background-color: #fd25b5ac;
+  /* border: 1px solid #e906f5; */
 }
+
 
 .whatsapp {
   color: #ffffff;
@@ -94,10 +101,16 @@
   color: #0077b5;
 }
 
+/* .instagram:hover {
+  background-color: #ffffff;
+  color: #e906f5;
+} */
+
 .instagram:hover {
   background-color: #ffffff;
   color: #e906f5;
 }
+
 
 .whatsapp:hover {
   background-color: #ffffff;
@@ -128,8 +141,8 @@
 .readme {
   position: relative;
   padding: 11px 35px;
-  background: #fff;
-  color: #00796b;
+  color: #fff;
+  background: #00796b;
   border: 2px solid #fff;
   font-weight: 600;
   font-size: 15px;
@@ -140,15 +153,17 @@
 }
 
 .readme:hover{
-  color: white;
-  background-color: #00796b;
+  background-color: #ffffff;
+  color: #00796b;
 }
 
 .contactme {
   position: relative;
   padding: 11px 35px;
-  background: none;
   color: #fff;
+  background: #00796b;
+  /* background: none;
+  color: #fff; */
   border: 2px solid #fff;
   font-weight: 600;
   font-size: 15px;
@@ -160,8 +175,10 @@
 }
 
 .contactme:hover{
-  color: #00796b;
+  /* color: #00796b;
+  background-color: white; */
   background-color: white;
+  color: #00796b;
 }
 /* main body */
 
