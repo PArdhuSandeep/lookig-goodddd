@@ -722,6 +722,9 @@ small {
   .full-height {
     height: 128vh;
   }
+  .full-heightt {
+    height: 190vh !important;
+  }
   .customhandle {display: flex;flex-direction: column;}
   .pardhaa,.pardhu {width: 100% !important;}
 }
